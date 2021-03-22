@@ -1,0 +1,6 @@
+pyrogram==1.2.0
+TgCrypto
+motor
+https://github.com/Tinche/aiofiles/archive/master.zip
+dnspython
+psutil
